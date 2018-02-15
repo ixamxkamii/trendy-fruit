@@ -17,11 +17,6 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
 body {
   font-family: "Open Sans", sans-serif;
   color: #000;
