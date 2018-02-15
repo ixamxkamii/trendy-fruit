@@ -11,9 +11,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-  font-family: "Open Sans", sans-serif;
-  color: #000;
 }
 
 *, *::before, *::after {
@@ -23,4 +20,34 @@ html {
 .img-flex {
   display: block;
   width: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #000;
+  margin: 0;
+}
+
+.first {
+  background-color: #e97065;
+}
+
+.second {
+  background-color: #fbd25e;
+}
+
+.third {
+  background-color: #e86033;
+}
+
+.watermelon {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.starfruit {
+  font-family: "Gravitas One", serif;
+}
+
+.persimmon {
+  font-family: Comfortaa, sans-serif;
 }
